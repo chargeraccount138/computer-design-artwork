@@ -1,0 +1,19 @@
+{
+  "name": "computer-design-artwork-package",
+  "main": "/computer-design-artwork",
+  "version": "2.0.0",
+  "description": "Here you can see recommendation even ideas on what to put or design for your computer artwork such as wallpaper.",
+  "keywords": [
+    "computer",
+    "computer design artwork",
+    "computer artwork"
+  ],
+  "activationCommands": {
+    "atom-workspace": "computer-design-artwork:toggle"
+  },
+  "repository": "https://github.com/chargeraccount138/computer-design-artwork.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
